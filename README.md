@@ -1,5 +1,5 @@
    #                         Movie Studio Analysis
-![e97c37166e06e49c0d1239ca17b32720](https://github.com/user-attachments/assets/023ba860-58a1-4357-9d19-ecd0259cb00a)
+
 ![image](https://github.com/user-attachments/assets/1bb79683-e6d6-44e7-82ca-89caed3c1d57)
 
 
