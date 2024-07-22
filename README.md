@@ -1,9 +1,5 @@
    #                         Movie Studio Analysis
-
-![image](https://github.com/user-attachments/assets/1bb79683-e6d6-44e7-82ca-89caed3c1d57)
-![image](https://github.com/user-attachments/assets/b36b626b-decb-4e74-8459-25cb7e28ab9d)
-
-
+![image](https://github.com/user-attachments/assets/b85fdeee-c96e-4254-a223-a41f8db6af7a)
 
 This repository contains an analysis of movie data to provide insights on what types of films are performing best at the box office. The goal is to help a new movie studio decide what types of films to create.
 
