@@ -6,7 +6,7 @@ This repository contains an analysis of movie data to provide insights on what t
 ## Project Overview
 We aim to provide actionable recommendations based on data from **Box Office Mojo, IMDB, Rotten Tomatoes, TheMovieDB, and The Numbers.** The analysis will focus on identifying trends and patterns in successful movies.
 ### Main Objective:
-***Identify what types of films would a new movie studio create.***
+- Identify what types of films would a new movie studio create.
 #### Specific Objectives:
 - Which genres are most profitable?
 - Which genres are most popular among viewers?
