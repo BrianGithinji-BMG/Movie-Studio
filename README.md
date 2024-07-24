@@ -13,7 +13,7 @@ We aim to provide actionable recommendations based on data from **Box Office Moj
 - Do viewers prefer long or short movies?
 - Which writers & directors produce most successful movies?
 - Which studios produce most profitable movies?
-- Which release dates are associated with higher popularity?
+
 ## Business Understanding
 ### Data Sources
 - Box Office Mojo
