@@ -148,7 +148,7 @@ The top genres are:
 - Vote average is not a statistically significant predictor of ROI.
 - Runtime minutes are not a statistically significant predictor of ROI.
 
-  # CONCLUSSION
+  # CONCLUSION
 - The most profitable genres are:
   
 | GENRE        | Retrun on Inv. |
