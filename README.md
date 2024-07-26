@@ -22,6 +22,7 @@ We aim to provide actionable recommendations based on data from **Box Office Moj
 - Rotten Tomatoes
 - TheMovieDB
 - The Numbers
+
 ### Data Understanding
 From this datasets we shall merge them to get one dataframe(merged) that contains the following columns:
 * Movie - Entails the title of the film
