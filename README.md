@@ -3,8 +3,8 @@
 
 This repository contains an analysis of movie data to provide insights on what types of films are performing best at the box office. The goal is to help a new movie studio decide what types of films to create.
 ## Links
-[Tableau Dashboard](https://public.tableau.com/views/MovieStudioAnalysis_17220225796650/MovieStudioAnalysisDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
+- [Tableau Dashboard](https://public.tableau.com/views/MovieStudioAnalysis_17220225796650/MovieStudioAnalysisDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [Canva Presentation](https://www.canva.com/design/DAGMCdGL5QU/ZbOML_GuD3l3z4GAb0JLDQ/edit?utm_content=DAGMCdGL5QU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ## Project Overview
 We aim to provide actionable recommendations based on data from **Box Office Mojo, IMDB, Rotten Tomatoes, TheMovieDB, and The Numbers.** The analysis will focus on identifying trends and patterns in successful movies.
 ### Main Objective:
