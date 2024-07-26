@@ -38,7 +38,7 @@ From this datasets we shall merge them to get one dataframe(merged) that contain
 ## Univariate Analysis
 1. **Average Viewer Rating Distribution**
    
- ![download](https://github.com/user-attachments/assets/1345add5-54ce-4c28-bc1b-4c87a53b916d)
+![download](https://github.com/user-attachments/assets/50e5db5c-aa4a-4bd9-a53d-5c653bf79309)
 
 - The most common rating is 6.2, with highly rated movies (rating ≥ 9) being rare (1% of the dataset).
   
@@ -58,7 +58,7 @@ From this datasets we shall merge them to get one dataframe(merged) that contain
 
 4. **Genre Distribution**
  
-![download](https://github.com/user-attachments/assets/d1930abb-01f3-4c5c-82e6-7472e15acd18)
+![download](https://github.com/user-attachments/assets/95bfd45d-a0fc-4236-a8b3-1529fa4fda06)
 
 The top genres are:
  - Drama (26.2%)
@@ -67,7 +67,8 @@ The top genres are:
 
 5. **Production Budgets**
    
-![download](https://github.com/user-attachments/assets/b8f9902f-e0cb-43a5-9b6a-427935350a86)
+![download](https://github.com/user-attachments/assets/ea01c608-2d4c-4271-aed6-e4d54e1d927b)
+
 
 - The most common budget range is 0 - 50 million dollars, with the highest budget being 425 million dollars (Avatar).
 
@@ -126,7 +127,7 @@ The top genres are:
 
 - A multiple linear regression model was used to predict ROI based on runtime, average rating, and genre.
 - The model showed that runtime and average rating are not strong predictors of ROI, with an R-squared value of 0.001.
-- 
+ 
 ### Interpretation of the model
 - **R-squared**: The R-squared value is **0.001**, indicating that only 0.1% of the variance in ROI is explained by the model. This suggests that **runtime and average rating are not strong predictors of ROI**.
 #### Coefficients:
@@ -144,6 +145,26 @@ The top genres are:
 - Vote average is not a statistically significant predictor of ROI.
 - Runtime minutes are not a statistically significant predictor of ROI.
 
+  # CONCLUSSION
+- The most profitable genres are:
+  
+| GENRE        | Retrun on Inv. |
+|--------------|----------------|
+| Fantasy      | 4.76           | 
+| Mystery      | 3.69           |    
+| Aniamtion    | 2.72           |
+
+- The most highly rated genres are:
+  
+| GENRE        | Average_Rating |
+|--------------|----------------|
+| Sport        | 7.9            | 
+| Documentary  | 7.07           |    
+| Biography    | 6.98           |
+
+- Viewers prefer longer movies.
+- There is no significant difference in profitability among short, medium, and long movie.
+
   # RECOMMENDATIONS
 
 1. Focus on **Profitable & are highly rated genres**. The most profitable & highly_rated genres are:
@@ -156,10 +177,7 @@ The top genres are:
 
 - Longer movies tend to have higher ratings.
   
-3. **Runtime isn't a signficant factor in matters profitability.**
-   
-- There is no significant difference in profitability among short, medium, and long movies hence,filmakers may not heavily rely on runtime as a gauge of profitability.
-4. **Budget Consideration**:
+3. **Budget Consideration**:
 - Most successful films have moderate budgets of 0 - 50 million dollars.
   
 
