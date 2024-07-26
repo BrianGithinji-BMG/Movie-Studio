@@ -186,7 +186,7 @@ The top genres are:
 |--------------|-------------------|
 | Mystery      | 17.9 Million      |     
 | Animation    | 63.7 Million      |  
-| Biography    | 59.49 Million     |
+| Adventure    | 59.49 Million     |
 
 
 
