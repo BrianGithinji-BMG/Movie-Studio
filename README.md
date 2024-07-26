@@ -180,7 +180,14 @@ The top genres are:
   
 3. **Budget Consideration**:
 - Most successful films have moderate budgets of 0 - 50 million dollars.
+- The recommended genres based on profitability and ratings have the following Production Budget.
   
+| GENRE        | Production_Budget |
+|--------------|-------------------|
+| Mystery      | 17.9 Million      |     
+| Animation    | 63.7 Million      |  
+| Biography    | 59.49 Million     |
+
 
 
 This comprehensive analysis provides actionable insights for the new movie studio, guiding them on the types of films to create for better box office performance.
