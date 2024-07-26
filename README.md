@@ -106,7 +106,8 @@ The top genres are:
 | Adventure    | 6.41           |
 
 
-3. Genre by ROI
+3. **Genre by Return on Investment**
+   
 ![download](https://github.com/user-attachments/assets/682196a9-dadf-4a5f-813d-5679b7cd5f53)
 
 - The most profitable genres are  :(**ROI > 2.50** )
@@ -121,9 +122,20 @@ The top genres are:
 
 
 ## Multivariate Analysis
+![download](https://github.com/user-attachments/assets/2eca2906-0043-4585-8a39-a66351d969de)
+
 - A multiple linear regression model was used to predict ROI based on runtime, average rating, and genre.
 - The model showed that runtime and average rating are not strong predictors of ROI, with an R-squared value of 0.001.
-
+- 
+### Interpretation of the model
+- **R-squared**: The R-squared value is **0.001**, indicating that only 0.1% of the variance in ROI is explained by the model. This suggests that **runtime and average rating are not strong predictors of ROI**.
+#### Coefficients:
+- **Intercept (const)**: 5.8064, which is the expected ROI when all predictors are zero.
+- **Runtime Minutes**: -0.0259, indicating a very weak negative relationship with ROI. However, the p-value (0.165) is greater than 0.05, suggesting this relationship is not statistically significant.
+  
+- **Average Rating**: 0.2012, indicating a very **weak positive relationship with ROI**. The p-value (0.538) is also greater than 0.05, indicating this relationship is not statistically significant.
+- **F-statistic**: The F-statistic is 1.015 with a **p-value of 0.363**, indicating that the **overall model is not statistically significant**.
+  
 ## Correlation Analysis
 - There is a weak positive correlation between vote average and ROI (0.2019).
 - There is a weak positive correlation between runtime minutes and ROI (0.0097).
@@ -131,6 +143,7 @@ The top genres are:
 ## Linear Regression Models
 - Vote average is not a statistically significant predictor of ROI.
 - Runtime minutes are not a statistically significant predictor of ROI.
+
   # RECOMMENDATIONS
 
 1. Focus on **Profitable & are highly rated genres**. The most profitable & highly_rated genres are:
@@ -139,10 +152,16 @@ The top genres are:
  - **Adventure**
 
 2. **Consider Viewer Preferences**
- ![download](https://github.com/user-attachments/assets/26ef8eab-1da4-4195-8a3f-b7676ce86fe0) - Longer movies tend to have higher ratings.
+ ![download](https://github.com/user-attachments/assets/26ef8eab-1da4-4195-8a3f-b7676ce86fe0)
 
-4. **Budget Consideration**s: Most 
-successful films have moderate budgets.
+- Longer movies tend to have higher ratings.
+  
+3. **Runtime isn't a signficant factor in matters profitability.**
+   
+- There is no significant difference in profitability among short, medium, and long movies hence,filmakers may not heavily rely on runtime as a gauge of profitability.
+4. **Budget Consideration**:
+- Most successful films have moderate budgets of 0 - 50 million dollars.
+  
 
 
 This comprehensive analysis provides actionable insights for the new movie studio, guiding them on the types of films to create for better box office performance.
